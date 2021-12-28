@@ -1,6 +1,7 @@
 #!/bin/zsh
 
 # export PATH=PATH:usr/local/bin
+cd ~/source/repos/obsidian/
 
 gstatus=`git status --porcelain`
 
