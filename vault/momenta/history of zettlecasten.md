@@ -1,1 +1,1 @@
-the method was developed by a gentleman called
+the method was developed by Nicholas Newman
