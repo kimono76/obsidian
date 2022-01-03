@@ -1,1 +1,1 @@
-the method was developed by Nicholas Newman
+the [[zettlescaten]] method was developed by Nicholas Newman
