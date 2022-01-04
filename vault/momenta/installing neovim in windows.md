@@ -2,7 +2,10 @@
 Created: 03/01/2022 21:01 
 
 You can [[install]] [[neovim]]  in [[windows]] with the [[windows terminal]] using [[chocolatey]] 
-For the installation o[[chocolatey]] must [[run as administrator]] [[windows terminal]] 
+For the installation of [[chocolatey]] youmust [[run as administrator]] [[windows terminal]] and run this [[command]] 
+```  
+
+```
 
 ``` choco install neovim ```
 
