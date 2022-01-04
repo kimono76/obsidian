@@ -2,7 +2,7 @@
 Created: 03/01/2022 21:01 
 
 You can [[install]] [[neovim]]  in [[windows]] with the [[windows terminal]] using [[chocolatey]] 
-For the installation of [[chocolatey]] youmust [[run as administrator]] [[windows terminal]] and run this [[command]] 
+For the installation of [[chocolatey]] you must [[run as administrator]] [[windows terminal]] and run this [[command]] 
 ```powershell  
 	Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1')) 
 ```
