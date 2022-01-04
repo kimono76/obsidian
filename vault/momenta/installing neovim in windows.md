@@ -11,4 +11,3 @@ You can [[install]] [[neovim]]  in [[windows]] with the [[windows terminal]] usi
 ## References 
 1. https://www.youtube.com/watch?v=4rnadWLsBAk 
 2. https://community.chocolatey.org/packages?q=neovim 
-3. 
