@@ -1,2 +1,2 @@
 # {{title}} 
-
+Created: {{date}} {{time}}
