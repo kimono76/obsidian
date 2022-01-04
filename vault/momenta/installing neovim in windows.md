@@ -1,6 +1,7 @@
 # installing neovim in windows 
 Created: 03/01/2022 21:01 
-[[neovim]] can be ins
+
+You can [[install]] [[neovim]]  in [[windows]] with the [[windows terminal]] [[]]
 
 
 ## References 
