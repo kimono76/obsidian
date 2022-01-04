@@ -1,1 +1,0 @@
-the [[zettlescaten]] method was developed by Nicholas Newman
