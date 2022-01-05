@@ -6,3 +6,4 @@ the [[documentation]] of the [[community]] [[plugin]]  is in the [[github]] repo
 
 ## References 
 1. https://youtu.be/PXyv6pnVGhA?list=PL-MeVgjvWyhBxV8mM4FqN8ZVocgllVW22
+2. https://github.com/Pseudonium/Obsidian_to_Anki
