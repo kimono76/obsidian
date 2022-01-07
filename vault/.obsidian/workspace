@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/Open Source alternatives for video conference.md",
+            "file": "dogmo/Open Source Alternatives For Video Conference.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/Open Source alternatives for video conference.md",
+                "file": "dogmo/Open Source Alternatives For Video Conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c6f89a7b7581faaa",
   "lastOpenFiles": [
+    "dogmo/Open Source Alternatives For Video Conference.md",
     "momenta/Open Source alternatives for video conference.md",
     "momenta/todoist.md",
     "momenta/Connect Anki to Obsidian.md",
@@ -96,7 +97,6 @@
     "kerno/first kerno.md",
     "momenta/NextCloud.md",
     "Untitled.md",
-    "momenta/words in esperanto.md",
-    "momenta/the history of the zettlecasten method.md"
+    "momenta/words in esperanto.md"
   ]
 }
