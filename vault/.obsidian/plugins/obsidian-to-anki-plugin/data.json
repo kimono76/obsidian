@@ -1,0 +1,90 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "dogmo": "",
+      "kerno": "",
+      "momenta": "",
+      "templates": ""
+    },
+    "FOLDER_TAGS": {
+      "dogmo": "",
+      "kerno": "",
+      "momenta": "",
+      "templates": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 5,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "templates/Note Template.md": "6fc5f4d5a07c318072aaef26334cf3c4",
+    "templates/Map of Content.md": "7a600526c12648647182a7110663bb17",
+    "momenta/words in esperanto.md": "5dcdfce8ee2408548786ab41e4da0d25",
+    "momenta/todoist.md": "ddd9268d03a2f7bd5e6a1b739695560c",
+    "momenta/the history of the zettlecasten method.md": "7fa6833deeb6788b3578fb5b508552e6",
+    "momenta/installing neovim in windows.md": "ab759954caee8e6765abb6fc323ec731",
+    "momenta/Installing chocolatey.md": "63a9cc08763d6fe878c06a2d36779344",
+    "kerno/first kerno.md": "1368c6bfb21cb33478ce2d5d62c057dd",
+    "dogmo/first dogmo note.md": "afd69b4b4d989559e658dcee7b3916c4",
+    "momenta/NextCloud.md": "07ccb1e402b5014e9a9b998e2271e191",
+    "momenta/Connect Anki to Obsidian.md": "5014a6bff052525ba5809f1d7a4a93dc",
+    "dogmo/windows.md": "e6b858660008887175ff129d7390b9ec"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7d97ee3956df5233",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3cd230dc0111dce",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3021c13db230228",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4bbd0d6133981b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f2754f555cde9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99828cb52962961b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90f96be1d8338e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db724923391dbb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "274821fecf718be0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e3cd230dc0111dce",
+  "lastOpenFiles": [
+    "momenta/Connect Anki to Obsidian.md",
+    "momenta/todoist.md",
+    "dogmo/windows.md",
+    "kerno/first kerno.md",
+    "momenta/NextCloud.md",
+    "Untitled.md",
+    "momenta/words in esperanto.md",
+    "momenta/the history of the zettlecasten method.md",
+    "momenta/installing neovim in windows.md",
+    "momenta/Installing chocolatey.md"
+  ]
+}
