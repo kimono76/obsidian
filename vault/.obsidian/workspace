@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dogmo/Cloud computing.md",
-            "mode": "source"
+            "file": "momenta/todoist.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dogmo/Cloud computing.md",
+                "file": "momenta/todoist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "c6f89a7b7581faaa",
   "lastOpenFiles": [
-    "dogmo/Cloud computing.md",
-    "dogmo/windows.md",
     "momenta/todoist.md",
     "momenta/Connect Anki to Obsidian.md",
+    "dogmo/Cloud computing.md",
+    "dogmo/windows.md",
     "kerno/first kerno.md",
     "momenta/NextCloud.md",
     "Untitled.md",
