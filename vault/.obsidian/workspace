@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3cd230dc0111dce",
+        "id": "c6f89a7b7581faaa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dogmo/Cloud computing.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dogmo/Cloud computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3cd230dc0111dce",
+  "active": "c6f89a7b7581faaa",
   "lastOpenFiles": [
     "dogmo/Cloud computing.md",
     "dogmo/windows.md",
