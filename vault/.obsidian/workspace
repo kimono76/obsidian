@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/todoist.md",
-            "mode": "preview"
+            "file": "dogmo/Cloud computing.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/todoist.md",
+                "file": "dogmo/Cloud computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e3cd230dc0111dce",
   "lastOpenFiles": [
+    "dogmo/Cloud computing.md",
     "momenta/todoist.md",
     "momenta/Connect Anki to Obsidian.md",
     "dogmo/windows.md",
@@ -96,7 +97,6 @@
     "Untitled.md",
     "momenta/words in esperanto.md",
     "momenta/the history of the zettlecasten method.md",
-    "momenta/installing neovim in windows.md",
-    "momenta/Installing chocolatey.md"
+    "momenta/installing neovim in windows.md"
   ]
 }
