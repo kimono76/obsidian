@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1246c8ee54ba5ad3",
+        "id": "34644cde37610952",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,11 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1246c8ee54ba5ad3",
+  "active": "34644cde37610952",
   "lastOpenFiles": [
+    "momenta/Open Source alternatives for video conference.md",
     "dogmo/Open Source Alternatives For Video Conference.md",
     "dogmo/Cloud computing.md",
-    "momenta/Open Source alternatives for video conference.md",
     "momenta/todoist.md",
     "momenta/Connect Anki to Obsidian.md",
     "dogmo/windows.md",
