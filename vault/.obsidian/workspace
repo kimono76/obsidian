@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "34644cde37610952",
+        "id": "43123e41a97202de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/Note Template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34644cde37610952",
+  "active": "43123e41a97202de",
   "lastOpenFiles": [
+    "templates/Note Template.md",
+    "momenta/workloads for xamarin.md",
+    "momenta/set up bluetooth speaker for echo 5.md",
+    "momenta/Connect Anki to Obsidian.md",
+    "momenta/youtube tutorial.md",
+    "momenta/todoist.md",
     "momenta/Open Source alternatives for video conference.md",
     "dogmo/Open Source Alternatives For Video Conference.md",
     "dogmo/Cloud computing.md",
-    "momenta/todoist.md",
-    "momenta/Connect Anki to Obsidian.md",
-    "dogmo/windows.md",
-    "kerno/first kerno.md",
-    "momenta/NextCloud.md",
-    "Untitled.md",
-    "momenta/words in esperanto.md"
+    "dogmo/windows.md"
   ]
 }
