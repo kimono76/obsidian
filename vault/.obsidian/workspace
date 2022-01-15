@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Note Template.md",
-            "mode": "source"
+            "file": "momenta/workloads for xamarin.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Note Template.md",
+                "file": "momenta/workloads for xamarin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "43123e41a97202de",
   "lastOpenFiles": [
-    "templates/Note Template.md",
     "momenta/workloads for xamarin.md",
+    "templates/Note Template.md",
     "momenta/set up bluetooth speaker for echo 5.md",
     "momenta/Connect Anki to Obsidian.md",
     "momenta/youtube tutorial.md",
