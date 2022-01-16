@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "momenta/workloads for xamarin.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,14 +90,14 @@
   "active": "43123e41a97202de",
   "lastOpenFiles": [
     "momenta/workloads for xamarin.md",
-    "templates/Note Template.md",
-    "momenta/set up bluetooth speaker for echo 5.md",
-    "momenta/Connect Anki to Obsidian.md",
+    "momenta/words in esperanto.md",
     "momenta/youtube tutorial.md",
     "momenta/todoist.md",
+    "momenta/set up bluetooth speaker for echo 5.md",
     "momenta/Open Source alternatives for video conference.md",
-    "dogmo/Open Source Alternatives For Video Conference.md",
-    "dogmo/Cloud computing.md",
-    "dogmo/windows.md"
+    "momenta/NextCloud.md",
+    "momenta/installing neovim in windows.md",
+    "momenta/Installing chocolatey.md",
+    "momenta/Connect Anki to Obsidian.md"
   ]
 }
