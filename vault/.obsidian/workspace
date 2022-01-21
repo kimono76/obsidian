@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/New project in xamarin.md",
+            "file": "momenta/Install docker in fedora.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/New project in xamarin.md",
+                "file": "momenta/Install docker in fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "aa7e489eef99b82c",
   "lastOpenFiles": [
+    "momenta/Install docker in fedora.md",
+    "momenta/Connect Anki to Obsidian.md",
+    "momenta/todoist.md",
     "momenta/New project in xamarin.md",
     "momenta/workloads for xamarin.md",
     "momenta/installing neovim in windows.md",
     "momenta/words in esperanto.md",
     "momenta/youtube tutorial.md",
-    "momenta/todoist.md",
     "momenta/set up bluetooth speaker for echo 5.md",
-    "momenta/Open Source alternatives for video conference.md",
-    "momenta/NextCloud.md",
-    "momenta/Installing chocolatey.md"
+    "momenta/Open Source alternatives for video conference.md"
   ]
 }
