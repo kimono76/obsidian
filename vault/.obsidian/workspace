@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/Install docker in fedora.md",
+            "file": "momenta/Countables.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/Install docker in fedora.md",
+                "file": "momenta/Countables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "aa7e489eef99b82c",
   "lastOpenFiles": [
+    "momenta/Countables.md",
+    "momenta/Uncountables.md",
     "momenta/Install docker in fedora.md",
     "momenta/Connect Anki to Obsidian.md",
     "momenta/todoist.md",
@@ -96,8 +98,6 @@
     "momenta/workloads for xamarin.md",
     "momenta/installing neovim in windows.md",
     "momenta/words in esperanto.md",
-    "momenta/youtube tutorial.md",
-    "momenta/set up bluetooth speaker for echo 5.md",
-    "momenta/Open Source alternatives for video conference.md"
+    "momenta/youtube tutorial.md"
   ]
 }
