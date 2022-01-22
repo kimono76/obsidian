@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/Countables.md",
+            "file": "momenta/Open Source alternatives for video conference.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/Countables.md",
+                "file": "momenta/Open Source alternatives for video conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "aa7e489eef99b82c",
   "lastOpenFiles": [
+    "momenta/Open Source alternatives for video conference.md",
+    "momenta/Reset last commit.md",
     "momenta/Countables.md",
     "momenta/Uncountables.md",
     "momenta/Install docker in fedora.md",
@@ -96,8 +98,6 @@
     "momenta/todoist.md",
     "momenta/New project in xamarin.md",
     "momenta/workloads for xamarin.md",
-    "momenta/installing neovim in windows.md",
-    "momenta/words in esperanto.md",
-    "momenta/youtube tutorial.md"
+    "momenta/installing neovim in windows.md"
   ]
 }
