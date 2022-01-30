@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/ReactFunctional Component.md",
+            "file": "momenta/Virtual Environments.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/ReactFunctional Component.md",
+                "file": "momenta/Virtual Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "aa7e489eef99b82c",
   "lastOpenFiles": [
+    "momenta/Virtual Environments.md",
+    "momenta/Uncountables.md",
     "momenta/ReactFunctional Component.md",
     "momenta/Open Source alternatives for video conference.md",
     "momenta/Install node in fedora.md",
@@ -96,8 +98,6 @@
     "momenta/Install react native for udemy course.md",
     "momenta/todoist.md",
     "momenta/set up bluetooth speaker for echo 5.md",
-    "momenta/Reset last commit.md",
-    "momenta/Countables.md",
-    "momenta/Uncountables.md"
+    "momenta/Reset last commit.md"
   ]
 }
