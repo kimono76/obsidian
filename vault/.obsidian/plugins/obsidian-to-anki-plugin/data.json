@@ -70,7 +70,7 @@
     "momenta/workloads for xamarin.md": "30b90d1dec647bf4a6b593eeec47b958",
     "momenta/set up bluetooth speaker for echo 5.md": "a9fda9621ff3d74e588b4fde2b8a331a",
     "momenta/New project in xamarin.md": "e687abd78075f09a5e265ca34ed477fb",
-    "momenta/Install docker in fedora.md": "0e1cea95d2d143629d7abaf91f08c884",
+    "momenta/Install docker in fedora.md": "f4ca391b83018a5649f7fda9c0172536",
     "momenta/Uncountables.md": "15693959a3f39e6b09cd1e5de3fbb324",
     "momenta/Countables.md": "e99c0d3ddec96587acd765f8208d8ce3",
     "momenta/Reset last commit.md": "9b697b8edd68c5316496693db1b095bc",
@@ -78,7 +78,8 @@
     "momenta/ReactFunctional Component.md": "14db10ac68751220054ba1ec54e72700",
     "momenta/Install node in fedora.md": "dafbcabac3a6c8a07d289985e16f20a7",
     "momenta/Virtual Environments.md": "aa505e6da71d72f26054c6336237e718",
-    "momenta/Docker commands.md": "dada54a6e4c507bb1230031d6024f2a9"
+    "momenta/Docker commands.md": "d57afa82a2ec9d56e9bf93efb1229df3",
+    "momenta/Arduino CLI.md": "458d9a9870312404fa37642a8893aa56"
   },
   "fields_dict": {
     "Basic": [

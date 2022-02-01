@@ -8,7 +8,6 @@ You need to [[set up the repositories]]  in [[fedora]]  before installing docker
 ```sh
 sudo dnf -y install dnf-plugins-core
 ```
-
 <!--ID: 1642727941605-->
 
 
@@ -17,7 +16,6 @@ You need to [[set up the repositories]]  in [[fedora]]  before installing docker
 ```sh
 sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 ```
-
 <!--ID: 1642727941688-->
 
 
