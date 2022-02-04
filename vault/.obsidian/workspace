@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/Arduino CLI.md",
+            "file": "momenta/NumPy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/Arduino CLI.md",
+                "file": "momenta/NumPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "aa7e489eef99b82c",
   "lastOpenFiles": [
+    "momenta/NumPy.md",
     "momenta/Arduino CLI.md",
     "momenta/Docker commands.md",
     "momenta/Install docker in fedora.md",
@@ -97,7 +98,6 @@
     "momenta/ReactFunctional Component.md",
     "momenta/Open Source alternatives for video conference.md",
     "momenta/Install node in fedora.md",
-    "momenta/Install react native for udemy course.md",
-    "momenta/todoist.md"
+    "momenta/Install react native for udemy course.md"
   ]
 }
