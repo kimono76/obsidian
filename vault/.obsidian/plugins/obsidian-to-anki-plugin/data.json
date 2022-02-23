@@ -81,7 +81,11 @@
     "momenta/Docker commands.md": "d57afa82a2ec9d56e9bf93efb1229df3",
     "momenta/Arduino CLI.md": "458d9a9870312404fa37642a8893aa56",
     "momenta/NumPy.md": "603b2fa0611c1eb4609fc1c94e034614",
-    "MAUI.md": "0ead46adb145dabe37b64e0a2db36438"
+    "MAUI.md": "0ead46adb145dabe37b64e0a2db36438",
+    "momenta/React Native.md": "6cad017b163dd14aae22ff68228358b9",
+    "momenta/xamarin forms architechture.md": "cbf9d6fae92ced37e48445693f953c91",
+    "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "momenta/xamarin project structure.md": "b4150d3aff21adb1883af3a548a4cf4a"
   },
   "fields_dict": {
     "Basic": [

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dc34f1b713c70346",
+        "id": "1829789da7f3c087",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/xamarin forms architechture.md",
+            "file": "momenta/xamarin project structure.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/xamarin forms architechture.md",
+                "file": "momenta/xamarin project structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc34f1b713c70346",
+  "active": "1829789da7f3c087",
   "lastOpenFiles": [
+    "momenta/xamarin project structure.md",
+    "Untitled.md",
+    "momenta/React Native.md",
     "momenta/xamarin forms architechture.md",
     "MAUI.md",
     ".NET MAUI.md",
     "momenta/NumPy.md",
     "momenta/Arduino CLI.md",
     "momenta/Docker commands.md",
-    "momenta/Install docker in fedora.md",
-    "momenta/Virtual Environments.md",
-    "momenta/Uncountables.md",
-    "momenta/ReactFunctional Component.md"
+    "momenta/Install docker in fedora.md"
   ]
 }
