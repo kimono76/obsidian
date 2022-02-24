@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/xamarin project structure.md",
+            "file": "momenta/NeoVim.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/xamarin project structure.md",
+                "file": "momenta/NeoVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "1829789da7f3c087",
   "lastOpenFiles": [
+    "momenta/NeoVim.md",
+    "momenta/Untitled.md",
     "momenta/xamarin project structure.md",
     "Untitled.md",
     "momenta/React Native.md",
@@ -96,8 +98,6 @@
     "MAUI.md",
     ".NET MAUI.md",
     "momenta/NumPy.md",
-    "momenta/Arduino CLI.md",
-    "momenta/Docker commands.md",
-    "momenta/Install docker in fedora.md"
+    "momenta/Arduino CLI.md"
   ]
 }
