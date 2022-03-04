@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/SIFT.md",
+            "file": "momenta/ReactFunctional Component.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/SIFT.md",
+                "file": "momenta/ReactFunctional Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1829789da7f3c087",
   "lastOpenFiles": [
+    "momenta/ReactFunctional Component.md",
     "momenta/SIFT.md",
     "momenta/NeoVim.md",
     "momenta/Untitled.md",
@@ -97,7 +98,6 @@
     "momenta/React Native.md",
     "momenta/xamarin forms architechture.md",
     "MAUI.md",
-    ".NET MAUI.md",
-    "momenta/NumPy.md"
+    ".NET MAUI.md"
   ]
 }
