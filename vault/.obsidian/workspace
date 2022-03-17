@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/python test.md",
+            "file": "momenta/ssh.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/python test.md",
+                "file": "momenta/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1829789da7f3c087",
   "lastOpenFiles": [
+    "momenta/ssh.md",
     "momenta/python test.md",
     "momenta/ReactFunctional Component.md",
     "momenta/SIFT.md",
@@ -97,7 +98,6 @@
     "momenta/xamarin project structure.md",
     "Untitled.md",
     "momenta/React Native.md",
-    "momenta/xamarin forms architechture.md",
-    "MAUI.md"
+    "momenta/xamarin forms architechture.md"
   ]
 }
