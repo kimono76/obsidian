@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "momenta/ssh.md",
+            "file": "momenta/youtube tutorial.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "momenta/ssh.md",
+                "file": "momenta/youtube tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1829789da7f3c087",
   "lastOpenFiles": [
-    "momenta/ssh.md",
-    "momenta/python test.md",
-    "momenta/ReactFunctional Component.md",
-    "momenta/SIFT.md",
-    "momenta/NeoVim.md",
-    "momenta/Untitled.md",
+    "momenta/youtube tutorial.md",
+    "momenta/xamarin forms architechture.md",
     "momenta/xamarin project structure.md",
-    "Untitled.md",
-    "momenta/React Native.md",
-    "momenta/xamarin forms architechture.md"
+    "momenta/workloads for xamarin.md",
+    "momenta/words in esperanto.md",
+    "momenta/Untitled.md",
+    "momenta/Uncountables.md",
+    "momenta/todoist.md",
+    "momenta/the history of the zettlecasten method.md",
+    "momenta/ssh.md"
   ]
 }

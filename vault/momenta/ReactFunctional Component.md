@@ -3,7 +3,7 @@ Created: 26/01/2022 20:01
 
 TARGET DECK: react 
 
-You can define a [[ReactFunctional Component]] writing a [[JavaScript]] function #flashcard 
+You can define a [[ReactFunctional Component]] writing a [[JavaScript]] function #flashcard
 
 ```js
 function Welcome(props) {
@@ -15,7 +15,7 @@ function Welcome(props) {
 
 
 
-You can also use an [ES6 class](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes) to define a component #flashcard 
+You can also use an [ES6 class](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes) to define a component #flashcard
 
 ```js
 class Welcome extends React.Component {
@@ -27,26 +27,31 @@ class Welcome extends React.Component {
 <!--ID: 1643246255628-->
 
 The [[JSX]] elements View, Text, and StyleSheet belong to this library #flashcard
-
 ```js
 'react-native'
 ```
+<!--ID: 1647696736814-->
+
 
 To use the elents from react-native you should use this syntax #flashcard
-
 ```js
 import { Text, View, StyleSheet } from 'react-native'
 ```
+<!--ID: 1647696736818-->
+
 
 For using [[css style]] properties in [[JSX]] you should include this library #flashcard 
-
 ```js
 	import { Stylesheet } from 'react-native'
 ```
+<!--ID: 1647696736823-->
+
 
 You should use a function to add [[css]] to a [[JSX]] #flashcard 
 ```js
 const styles = StyleSheet.create({
+<!--ID: 1647696736828-->
+
 
 	styleName:{
 		color: red,

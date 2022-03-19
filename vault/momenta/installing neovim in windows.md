@@ -1,11 +1,13 @@
 # installing neovim in windows 
 Created: 03/01/2022 21:01 
 
-You can [[install]] [[neovim]]  in [[windows]] with the [[windows terminal]] using [[chocolatey]]  
+You can [[install]] [[neovim]]  in [[windows]] with the [[windows terminal]] using [[chocolatey]]  #flashcard
 
 ``` powershell 
 	choco install neovim 
 ```
+<!--ID: 1647697721088-->
+
 
 
 ## References 

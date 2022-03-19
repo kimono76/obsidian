@@ -9,13 +9,15 @@ When connecting to a remote server via SSH, you would specify the remote user na
 ssh john@dev.example.com -p 2322
 ```
 
-To connect to the server using the same options as provided in the command above, simply by typing `ssh dev`, put the following lines to your `"~/.ssh/config` file #flashcard 
+To connect to the server using the same options as provided in the command above, simply by typing `ssh dev`, put the following lines to your `"~/.ssh/config` file #flashcard
 ```
 Host dev
     HostName dev.example.com
     User john
     Port 2322
 ```
+<!--ID: 1647697043965-->
+
 
 
 
